@@ -1,0 +1,157 @@
+/* Reset Default */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Gill Sans, sans-serif;
+  background-color: #fffaf3;
+  color: #2e2e2e;
+/* Header */
+}
+.header { 
+  background-color: #f4c542;
+  font-family: Gill Sans, sans-serif;
+}
+.header > .nav {
+  display: inline-block;
+  width: 100%;
+  padding: 16px;
+}
+.header > .quick-access {
+  display: inline-block;
+  width: 35%;
+  margin-right: -4px;
+}
+.header > .nav li {
+  display: inline-block; 
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.header > .nav a {
+  color: #3a2f2f;
+  font-size: 75%;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+/* Welcome Banner */
+.welcome {
+  text-align: center;
+  color: #fff;
+}
+.slide {
+  padding: 20px 40px;
+  text-align: center;
+}
+.slide h1 {
+  font-size: 300%;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+.slide h2 {
+  font-size: 150%;
+  margin-bottom: 20px;
+  font-weight: 100;
+}
+.slide a {
+  display: inline-block;
+  padding: 10px 24px;
+  background-color: #b76e79;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.slide img {
+  margin-top: 20px;
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* description */
+.description {
+  padding: 50px 80px;
+  font-size: 140%;
+  font-weight: 120;
+  text-align: center;
+}
+/* slideshow */ 
+.featured {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+.featured-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.featured > input {
+  display: none;
+}
+.featured > .slide {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.control {
+  position: absolute; 
+  bottom: 20px; 
+  left: 50px;
+  z-index: 10;
+}
+
+.control > label {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  background-color: lightgray;
+  cursor: pointer;
+}
+.slide img {
+  height: 100%;
+  object-fit: cover;
+}
+.slide span {
+  width: 300px;
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  color: white;
+  font-size: 2rem;
+  padding: 10px;
+  text-shadow: 0 0 10px black;
+}
+#s1:checked ~ .slide:nth-of-type(1),
+#s2:checked ~ .slide:nth-of-type(2),
+#s3:checked ~ .slide:nth-of-type(3) {
+  display: block;
+}
+.contact {
+  text-align: center;
+  font-family: Gill Sans, sans-serif;
+  font-weight: 100;
+  padding: 60px 20px;
+  background-color: #f4c542;
+}
+.contact h1{
+  font-weight: 400;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+} 
+.contact h2 {
+  font-weight:350; 
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.contact .phone-email span {
+  display: block;
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
