@@ -15,3 +15,7 @@ Figma Etsy App Redesign
 Liaba designed the following pages: "Top Seller Spotlight", "Thread & Thistle", "Recent Searches", "Cart"
 
 https://drive.google.com/file/d/1_duDakS6JSMPq2L1kDgC-INMCub0rZPs/view?usp=sharing
+
+Project 4: 
+Python Coding Project "beautifulsoupproject.py" 
+(view in files)
