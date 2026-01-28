@@ -7,5 +7,5 @@ HTML & CSS webpage
 https://gondaliaba.github.io/GondalPortfolio/
 
 Project 2: 
-Figma Homepage Redesign 
+Figma Homepage Redesign (click present) 
 https://www.figma.com/design/0G3d5bRh99HdOKGpygZuNM/DyaTech-Website?node-id=0-1&t=LfviSl9T0cz896f8-1
