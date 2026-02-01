@@ -16,6 +16,7 @@ Info: Created a webpage for a fictional restaurant using HTML and CSS focusing o
 
 ***Project 2:***
 Figma Homepage Redesign (personal)
+
 (click present) 
 https://www.figma.com/design/0G3d5bRh99HdOKGpygZuNM/DyaTech-Website?node-id=0-1&t=LfviSl9T0cz896f8-1
 
