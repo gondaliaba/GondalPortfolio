@@ -5,7 +5,7 @@ Liaba Gondals Design Portfolio 2026
 
 
 ***Project 1:***
-HTML & CSS webpage
+HTML & CSS webpage (personal)
 
 https://gondaliaba.github.io/GondalPortfolio/
 
@@ -15,8 +15,8 @@ Info: Created a webpage for a fictional restaurant using HTML and CSS focusing o
 
 
 ***Project 2:***
-Figma Homepage Redesign (click present) 
-
+Figma Homepage Redesign (personal)
+(click present) 
 https://www.figma.com/design/0G3d5bRh99HdOKGpygZuNM/DyaTech-Website?node-id=0-1&t=LfviSl9T0cz896f8-1
 
 Info: Using Figma, I redesigned DyaTech's homepage to simplify the layout and reduce visual clutter. 
@@ -25,7 +25,7 @@ Info: Using Figma, I redesigned DyaTech's homepage to simplify the layout and re
 
 
 ***Project 3:***
-Figma Etsy App Redesign 
+Figma Etsy App Redesign (academic)
 
 https://drive.google.com/file/d/1_duDakS6JSMPq2L1kDgC-INMCub0rZPs/view?usp=sharing
 
@@ -37,7 +37,7 @@ Info: (Group Project) Redesigned Etsy's interface to reduce clutter and improve 
 
 
 ***Project 4:***
-DyaTech Orion Mock Up 
+DyaTech Orion Mock Up (professional)
 
 https://www.figma.com/proto/JsWW3RHnUogrGjCmM5Tpeh/Orion-High-fidelity-mockups?page-id=2834%3A37648&node-id=3897-57603&node-type=canvas&viewport=569%2C781%2C0.04&t=evGcUiTTKlehtIT4-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3897%3A57603&show-proto-sidebar=1
 
@@ -48,7 +48,7 @@ Info: Collaborated on a DyaTech Orion Catolog's website mockup for the NYC DOE, 
 
 
 
-***Project 5:***
+***Project 5:*** (academic)
 Python Coding Project "beautifulsoupproject.py" 
 
 (view in files)
