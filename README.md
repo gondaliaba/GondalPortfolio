@@ -4,8 +4,11 @@ Liaba Gondals Design Portfolio 2026
 
 Project 1: 
 HTML & CSS webpage
+
 https://gondaliaba.github.io/GondalPortfolio/
+
 Info: Created a webpage for a fictional restaurant using HTML and CSS focusing on layout and user-friendly navigation. 
+
 
 Project 2: 
 Figma Homepage Redesign (click present) 
